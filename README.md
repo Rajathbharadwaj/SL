@@ -1,6 +1,6 @@
 # Statistical Learning
 
-This is the repo Assignments & Projects of SL
+This is the repo for Assignments & Projects of SL
 
 Usage
 1. Clone the repo <br> `git clone https://github.com/Rajathbharadwaj/SL.git`
